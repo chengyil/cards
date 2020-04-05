@@ -13,7 +13,7 @@
             Card
         },
         created: function() {
-            this.initialize()
+            this.shuffle()
         },
         data: function() {
             return {
